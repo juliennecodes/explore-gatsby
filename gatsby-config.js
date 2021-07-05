@@ -5,6 +5,10 @@
  */
 
 module.exports = {
-  /* Your site config here */
+  siteMetadata: {
+    title: `Explore Gatsby Site`,
+    description: `Me exploring Gatsby`,
+    author: `me!`,
+  },
   plugins: [],
 }
